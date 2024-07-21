@@ -1,0 +1,22 @@
+{
+    "books" : [
+      {
+        "id": 1,
+        "title": "Ifinity",
+        "author": "Sherrilyn Kenyon",
+        "year": 2010
+      },
+      {
+        "id": 2,
+        "title": "The Host",
+        "author": "Stephenie Meyer",
+        "year": 2008
+      },
+      {
+        "id" : 3,
+        "title" : "Lord of the Flies" ,
+        "author" : "William Golding" ,
+        "year" : 1954
+      }
+    ]
+  }

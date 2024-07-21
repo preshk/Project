@@ -1,0 +1,14 @@
+.book-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.book-item h3 {
+    margin-top: 0;
+}
+
+.book-item .btn {
+    margin-right: 5px;
+}
